@@ -1,4 +1,6 @@
 # FinalCrudPro
+*Todo el código está dentro de la carpeta WEB con las páginas y el código usado*
+
 Para acceder como administrador hay que usar las siguientes credenciales:
 
 Usuario: Admin contraseña: 
